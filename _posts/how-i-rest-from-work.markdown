@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Night Fury
-date : 
 description: Festival of Lights
 img: i-rest.jpg # Add image post (optional)
 tags: [Night Crackers, Rockets]
