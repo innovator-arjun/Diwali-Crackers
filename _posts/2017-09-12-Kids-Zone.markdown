@@ -1,0 +1,13 @@
+---
+layout: post
+title: Kids-Zone
+description: Festival of Lights
+img: i-rest.jpg # Add image post (optional)
+tags: [Safe, Fun]
+---
+
+We always cherish our Childhood memories by bursting crackers and having fun with our friends and family. Lets provide a similar occasion to our children and beautiful moments that light can give us. Our Responsibility extends to educate the safety precautions one must take while enjoying them. It also teaches them a life lesson.
+
+
+
+{% include mycomponent.html %}
