@@ -2,7 +2,7 @@
 layout: post
 title: Kids-Zone
 description: Festival of Lights
-img: i-rest.jpg # Add image post (optional)
+img: kidszone.jpg # Add image post (optional)
 tags: [Safe, Fun]
 ---
 
