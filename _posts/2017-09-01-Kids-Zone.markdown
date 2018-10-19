@@ -10,4 +10,4 @@ We always cherish our Childhood memories by bursting crackers and having fun wit
 
 
 
-{% include mycomponent.html %}
+{% include kids_zone_comp.html %}
