@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title: Night Fury
 description: Festival of Lights
 img: i-rest.jpg # Add image post (optional)
