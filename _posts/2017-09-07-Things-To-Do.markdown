@@ -1,5 +1,3 @@
-
-{% include gift_wrap_comp.html %}---
 layout: post
 title: Things to think
 description: Festival of Lights
