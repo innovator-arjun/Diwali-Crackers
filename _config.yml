@@ -1,15 +1,15 @@
-title: Buy Crackers online
+title: Awesome Lloyd
 description: > # this means to ignore newlines until "baseurl:"
- Ordering crackers online from Chennai is now become easier & simple with us
+Be a better and awesome person, you deserve better
 permalink: ':title/'
 baseurl: "/Diwali-Crackers" # the subpath of your site, e.g. /blog
 url: "http://diwali-crackers.com" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: SaraVedi # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: Ordering crackers online from Chennai is now become easier & simple with us # add description
+author: Awesome Lloyd # add your name
+author-img: lloyd.PNG # add your photo
+about-author: Be a better and awesome person, you deserve better # add description
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
 social-linkedin: # add your Linkedin handle
