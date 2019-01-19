@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gift Box
+title: Motivation
 description: Festival of Lights
 img: gift.jpg # Add image post (optional)
 tags: [Crackers-Bundle, Combo Crackers]

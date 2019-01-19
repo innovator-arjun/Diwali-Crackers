@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Morning Blast
+title: Things to think
 description: Festival of Lights
 img: Morning_Blast.jpg # Add image post (optional)
 tags: [Heavy Sound, Fun]

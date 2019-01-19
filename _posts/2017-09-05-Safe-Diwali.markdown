@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Safe Diwali
+title: Parential Guide
 description: Festival of Lights
 img: do.jpg # Add image post (optional)
 ---
